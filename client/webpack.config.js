@@ -34,7 +34,7 @@ module.exports = () => {
         short_name: "CTMBR-Txt",
         description: "This is a cool Text editor by CTMBR",
         background_color: "#25504a",
-        theme_color: "25504a",
+        theme_color: "#25504a",
         start_url: "/",
         publicPath: "/",
         icons: [
